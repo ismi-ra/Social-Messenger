@@ -6,6 +6,14 @@ Aplikasi pesan sosial modern berbasis web yang fokus pada kecepatan, keamanan, d
 
 ---
 
+## 📸 Screenshot
+
+|                    Chat View                     |                 Voice Call View                  |
+| :----------------------------------------------: | :----------------------------------------------: |
+| ![Chat View](./public/screenshots/chat_view.png) | ![Call View](./public/screenshots/call_view.png) |
+
+---
+
 ## ✨ Fitur Utama
 
 -   **💬 Real-time Messaging:** Kirim dan terima pesan instan tanpa refresh (Socket.io).
